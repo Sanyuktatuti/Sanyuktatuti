@@ -10,7 +10,7 @@ Currently, I’m exploring the intersections of **large-scale ML, retrieval syst
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanyuktatuti&color=blue&style=flat-square)
 
-## 🚀 Featured Projects
+## Featured Projects
 - **[Personal-AI-Twin](https://github.com/Sanyuktatuti/Personal-AI-Twin)** – End-to-end LLM platform: streams data via MongoDB CDC → RabbitMQ → Bytewax, embeds into Qdrant, fine-tunes an 8B model (LoRA/QLoRA) on AWS SageMaker, and serves a RAG API with Gradio UI.
 - **[Candidate-Recommendation-Engine](https://github.com/Sanyuktatuti/Candidate-Recommendation-Engine)** – AI-powered recommender that ranks resumes against job descriptions using embeddings + cosine similarity, generating concise fit summaries.
 - **[Airspace-Congestion-Monitoring](https://github.com/Sanyuktatuti/airspace-congestion-monitoring)** – Real-time flight tracking and congestion analysis platform with Kafka + Spark Streaming; integrates OpenSky API, risk scoring, and geospatial analytics with Streamlit.
@@ -19,7 +19,7 @@ Currently, I’m exploring the intersections of **large-scale ML, retrieval syst
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -37,7 +37,7 @@ Currently, I’m exploring the intersections of **large-scale ML, retrieval syst
 
 ---
 
-## 📌 Technical Skills
+## Technical Skills
 - **Programming Languages**: Python, C++, Java, SQL, Bash  
 - **Machine Learning & Deep Learning**: PyTorch, TensorFlow, Keras, scikit-learn, XGBoost, LightGBM  
 - **NLP**: Hugging Face Transformers, spaCy, NLTK, LLM fine-tuning (LoRA/QLoRA/PEFT), RAG, semantic search, embeddings  
@@ -49,14 +49,14 @@ Currently, I’m exploring the intersections of **large-scale ML, retrieval syst
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanyuktatuti&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyuktatuti&layout=compact&theme=default)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanyuktatuti&theme=default)
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanyukta-tuti-343ba5201/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanyuktatuti)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanyuktatuti)  
