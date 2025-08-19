@@ -1,8 +1,8 @@
-# Hi, I'm Sanyukta Tuti
+# Welcome to my GitHub profile — I'm Sanyukta Tuti
 
 Software Engineer and AI Researcher specializing in Machine Learning, Deep Learning, and Data Systems.  
-Experienced in building production-grade ML pipelines, scalable APIs, and real-time platforms.  
-Passionate about autonomous systems, efficient model training, and applied AI research.
+I enjoy building intelligent systems that combine scalable engineering with applied research — from real-time data platforms to autonomous navigation and advanced AI models.  
+Currently exploring intersections of LLMs, computer vision, and distributed systems.
 
 ## Featured Projects
 - **[Personal-AI-Twin](https://github.com/Sanyuktatuti/Personal-AI-Twin)** – End-to-end LLM pipeline that scrapes posts, streams through MongoDB CDC → RabbitMQ → Bytewax, embeds into Qdrant, fine-tunes an 8B model (LoRA/QLoRA) on AWS SageMaker, and deploys a RAG API with Gradio UI.
