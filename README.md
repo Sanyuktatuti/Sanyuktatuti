@@ -3,7 +3,7 @@
 I’m a Software Engineer and AI Researcher with a strong focus on **Machine Learning, Deep Learning, and Data Systems**.  
 My work spans **LLMs, Computer Vision, NLP, and real-time data platforms**, where I combine research-driven methods with production-grade engineering.  
 
-I believe in building systems that are **scalable, intelligent, and impactful** — from **LLM-powered assistants** to **autonomous navigation pipelines** and **streaming data architectures**.  
+I believe in building systems that are **scalable, intelligent, and impactful**, from **LLM-powered assistants** to **autonomous navigation pipelines** and **streaming data architectures**.  
 Currently, I’m exploring the intersections of **large-scale ML, retrieval systems, and applied AI for automation and decision-making**.
 
 ---
@@ -63,4 +63,4 @@ Currently, I’m exploring the intersections of **large-scale ML, retrieval syst
 
 ---
 
-⭐️ *“Always learning, always building — where research meets engineering.”*
+⭐️ *“Always learning, always building, where research meets engineering.”*
