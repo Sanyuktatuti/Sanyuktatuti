@@ -49,13 +49,6 @@ Currently, I’m exploring the intersections of **large-scale ML, retrieval syst
 
 ---
 
-## GitHub Analytics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanyuktatuti&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyuktatuti&layout=compact&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanyuktatuti&theme=default)
-
----
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanyukta-tuti-343ba5201/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanyuktatuti)  
